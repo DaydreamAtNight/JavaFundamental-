@@ -1,7 +1,7 @@
-// heloWorld is a public class
+// helloWorld is a public class
 public class helloWorld{
     // main 
-    public static void main(String[] arga) {
+    public static void main(String[] args) {
         System.out.println("Hello, World, 中文测试");
         System.out.println("TAB, \\t: \nHello\tWorld");
         // if \r, rewrite from the front of the line
@@ -18,7 +18,7 @@ public class helloWorld{
 // only one Public class in the source code
 // no limit on other code
 // if multiple class in the source code:
-// after compile, multiple *.class file will be genereted
+// after compile, multiple *.class file will be generated
 // each *.class file is related to the class with the same name in the source code.
 
 // the source code fileName must consistent with the public class name.
